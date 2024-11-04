@@ -1,0 +1,9 @@
+origin: 'local'
+origin_path: '~/Documents/ImageCraft'
+dest: 'adonninelli@195.14.102.215'
+dest_path: '/u/dssc/adonninelli/imagecraft'
+mirror: true
+pattern: '*'
+ignore_pattern: '.git/ build/ build_manual/ runs/'
+origin_jump: null
+dest_jump: null

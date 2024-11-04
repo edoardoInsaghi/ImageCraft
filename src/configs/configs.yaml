@@ -1,0 +1,2 @@
+imagebind_ckpt: '/u/dssc/einsaghi/ImageCraft/ckpts/imagebind_huge.pth'
+sd_ckpt: '/u/dssc/einsaghi/ImageCraft/ckpts/sd21-unclip-h.ckpt'

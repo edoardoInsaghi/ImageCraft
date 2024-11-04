@@ -1,0 +1,25 @@
+H: 768
+W: 768
+alpha: 0.5
+cond_audio: null
+cond_image: null
+cond_strength: 1.0
+ddim_eta: 0.0
+dpm: false
+from_file: null
+img_strength: 0.8
+n_iter: 8
+noise_level: 0
+outdir: ./output/experiment_scale/scale_1/index_1
+prompt: '"Young men in blade runner, photo, light box, three point lighting, film
+  grain, epic movie poster, flying hover cars, crowded bazaar street, rain, 8k uhd,
+  dslr, soft lighting, high quality, film grain, Fujifilm XT3, different Moviescene,
+  perfect composition, beautiful detailed intricate insanely detailed octane render
+  trending on artstation, 8 k artistic photography, photorealistic concept art, soft
+  natural volumetric cinematic perfect light, chiaroscuro, award - winning photograph,
+  masterpiece, oil on canvas, raphael, caravaggio, greg rutkowski, beeple, beksinski,
+  giger"'
+scale: 1.0
+start_image: null
+startseed: 0
+steps: 75

@@ -1,0 +1,20 @@
+H: 768
+W: 768
+alpha: 0.75
+cond_audio:
+- ./samples/rain.wav
+cond_image:
+- ./samples/car_image.jpg
+cond_strength: 1.0
+ddim_eta: 0.0
+dpm: false
+from_file: null
+img_strength: 0.8
+n_iter: 8
+noise_level: 0
+outdir: ./output/test_cfg
+prompt: A photo
+scale: 4.0
+start_image: null
+startseed: 0
+steps: 75

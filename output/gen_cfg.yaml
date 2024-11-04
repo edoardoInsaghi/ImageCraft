@@ -1,0 +1,20 @@
+H: 768
+W: 768
+alpha: 0.5
+cond_audio: null
+cond_image: null
+cond_strength: 1.0
+ddim_eta: 0.0
+dpm: false
+from_file: null
+img_strength: 0.8
+n_iter: 10
+noise_level: 0
+outdir: ./output/
+prompt: A picture of a beautiful woman on the beach sunbathing her breasts with a
+  nice tan line eating an ice cream in a sexy way
+scale: 9.0
+start_image: null
+start_image2: null
+startseed: 0
+steps: 100
